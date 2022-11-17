@@ -1,1 +1,1 @@
-# reinforcement-learning-jupyter-server
+Jupyter Notebook server for use in reinforcement learning exploration
