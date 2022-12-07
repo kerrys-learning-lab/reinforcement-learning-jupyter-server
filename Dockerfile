@@ -1,7 +1,6 @@
-FROM jupyter/datascience-notebook:lab-3.5.0
+FROM jupyter/datascience-notebook:lab-3.5.1
 
 USER root
-
 
 RUN  apt-get update &&   \
      apt-get install -y  curl \
